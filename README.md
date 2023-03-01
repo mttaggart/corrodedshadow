@@ -1,2 +1,5 @@
-# corrodedshadow
-Rust PoC for enumerating/deleting Volume Shadow Copies
+# Corroded Shadow
+
+Rust PoC for enumerating/deleting Volume Shadow Copies.
+
+**THIS CODE FOR EDUCATIONAL PURPOSES ONLY. ANY EXECUTION OF THIS CODE IS THE SOLE RESPONSIBILITY OF THE EXECUTOR.**
